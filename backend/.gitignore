@@ -1,0 +1,18 @@
+# Environment variables (VERY IMPORTANT)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Prisma (optional - keep migrations if needed)
+node_modules/
+.prisma
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
